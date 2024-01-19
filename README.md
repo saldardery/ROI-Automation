@@ -1,0 +1,1 @@
+Jira_First_date.py  ---> This script checks the mapped excel that maps between salesforce account name and Jira Customer Name and goes through jira dump and gets the earlist closed date of a completed migration.
