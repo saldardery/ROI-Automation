@@ -1,1 +1,2 @@
 Jira_First_date.py  ---> This script checks the mapped excel that maps between salesforce account name and Jira Customer Name and goes through jira dump and gets the earlist closed date of a completed migration.
+ROI_FINAL ---> This scripts checks each row in mapped excel and checks for all hits in salesforce dump. It then calculates the ROI of each customer and populates the "ROI" field in the mapped excel
